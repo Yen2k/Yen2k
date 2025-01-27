@@ -36,7 +36,6 @@ Hi there! I’m Yen Duong, a passionate software engineer and lifelong learner, 
 - **Frameworks & Libraries:** React.js, Node.js, Express.js.
 - **Databases:** MongoDB, MySQL.
 - **Tools & Platforms:** AWS, Git, Netlify, SQLite.
-**Learning and Knowledge Sharing Documentation: **Stack Overflow,  GitHub Discussions
 - **Other Skills:** Agile methodologies, code refactoring, and problem-solving.
 
 ---
@@ -77,9 +76,9 @@ I’m currently exploring advanced AI integrations, competitive programming chal
 ---
 
 ## 🤝 Let’s Connect
-- **LinkedIn:** [linkedin.com/in/yenduong](https://linkedin.com/in/yenduong)
-- **GitHub:** [github.com/yenduong](https://github.com/yenduong)
-- **Email:** [yenduong@example.com](mailto:yenduong@example.com)
+- **LinkedIn:** [linkedin.com/in/yen-duong-9218361a2](linkedin.com/in/yen-duong-9218361a2)
+- **GitHub:** [github.com/Yen2k](https://github.com/Yen2k)
+- **Email:** [yenduong2k@gmail.com](mailto:yenduong2k@gmail.com)
 
 I’m always open to discussing exciting opportunities, collaborating on innovative projects, and sharing knowledge. Let’s build something amazing together!
 
